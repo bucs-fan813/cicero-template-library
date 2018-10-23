@@ -1,0 +1,12 @@
+{
+  "name": "loan",
+  "version": "0.0.1",
+  "description": "A loan",
+  "author": "Johnathan Russell",
+  "license": "Apache-2.0",
+  "cicero": {
+    "template": "contract",
+    "language": "ergo",
+    "version": "^0.8.0"
+  }
+}

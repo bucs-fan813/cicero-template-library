@@ -1,0 +1,4 @@
+{
+  "$class": "org.accordproject.loan.Payment",
+  "amountPaid": { "doubleValue" : 100.0, "currencyCode" : "USD" }
+}

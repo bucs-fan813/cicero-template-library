@@ -1,0 +1,26 @@
+{
+  "$class": "org.accordproject.loan.LoanContract",
+  "contractId": "",
+  "amount": {
+    "$class": "org.accordproject.money.MonetaryAmount",
+    "doubleValue": 1000,
+    "currencyCode": "USD"
+  },
+  "date": "2018-01-30",
+  "borrower": "Daniel Selman",
+  "interestRate": 3.8,
+  "p2p": true,
+  "borowerAddress": "1 Main Street",
+  "lender": "Clause",
+  "legalEntity": "CORP",
+  "lenderAddress": "246 5th Ave, 3rd Fl, New York, NY 10001",
+  "principal": {
+    "$class": "org.accordproject.money.MonetaryAmount",
+    "doubleValue": 500,
+    "currencyCode": "USD"
+  },
+  "maturityDate": "2019-01-20",
+  "defaultDays": 90,
+  "insolvencyDays": 90,
+  "jurisdiction": "New York, NY"
+}
